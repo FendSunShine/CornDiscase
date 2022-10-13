@@ -1,0 +1,7 @@
+
+VOCdevkit/
+*.md
+*common*
+*Kaggle*
+img*
+logs/

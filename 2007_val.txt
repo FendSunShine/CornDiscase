@@ -1,0 +1,389 @@
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000022.jpg 27,9,57,189,0 13,198,31,265,0 118,39,151,111,0 131,135,185,265,0 91,193,119,238,0 166,3,241,51,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000037.jpg 31,4,60,145,0 63,40,93,110,0 96,45,150,108,0 161,6,184,138,0 114,174,144,259,0 82,265,120,406,0 44,155,79,276,0 153,187,171,230,0 178,146,204,190,0 199,196,226,246,0 175,230,197,269,0 179,331,204,367,0 185,387,202,420,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000040.jpg 138,3,186,56,0 48,257,107,377,0 131,200,173,323,0 124,342,156,396,0 89,427,155,467,0 218,41,256,125,0 196,144,245,223,0 204,227,256,271,0 205,296,256,345,0 231,360,256,445,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000047.jpg 57,55,100,446,0 126,28,195,186,0 106,260,237,436,0 223,465,256,738,0 54,466,118,717,0 124,567,196,728,0 150,461,184,557,0 208,16,233,77,0 228,94,252,172,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000048.jpg 2,92,40,318,0 47,13,74,41,0 47,61,72,202,0 79,156,118,276,0 147,9,180,143,0 219,3,252,53,0 69,307,164,399,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000061.jpg 2,45,47,507,0 52,35,124,413,0 107,424,176,614,0 21,572,108,774,0 5,825,56,920,0 142,703,177,807,0 205,8,256,284,0 233,434,256,863,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000066.jpg 20,13,69,89,0 49,107,103,231,0 112,8,196,150,0 138,157,203,224,0 70,271,105,340,0 113,255,166,334,0 181,339,221,396,0 215,188,249,309,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000079.jpg 119,62,151,204,0 134,10,157,40,0 183,6,220,87,0 232,1,256,34,0 142,212,182,291,0 101,299,148,373,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000088.jpg 55,35,170,468,0 128,491,187,605,0 188,33,217,439,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000093.jpg 9,103,88,283,0 106,2,199,127,0 126,137,175,253,0 179,146,212,212,0 214,201,241,294,0 111,329,149,367,0 205,351,241,416,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000111.jpg 36,22,80,121,0 41,205,101,274,0 148,4,171,95,0 214,3,240,62,0 173,197,212,307,0 113,206,135,242,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000112.jpg 5,8,147,131,0 80,155,170,238,0 185,77,216,129,0 224,199,256,265,0 167,276,226,306,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000113.jpg 108,125,144,240,0 138,61,171,107,0 18,26,54,61,0 45,311,105,357,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000128.jpg 23,9,82,138,0 138,13,243,174,0 35,226,144,310,0 190,183,231,214,0 160,245,252,300,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000147.jpg 4,131,84,348,0 2,356,58,586,0 64,353,165,547,0 177,138,208,311,0 153,10,171,132,0 93,173,162,347,0 2,597,135,780,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000151.jpg 33,4,208,490,0 219,274,239,512,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000154.jpg 68,25,105,121,0 79,136,129,265,0 112,296,173,423,0 149,118,194,216,0 112,34,133,121,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000164.jpg 120,187,167,305,0 111,317,148,371,0 174,137,230,199,0 204,205,256,238,0 193,279,213,322,0 50,282,93,329,0 207,36,237,115,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000165.jpg 6,1,18,41,0 30,3,47,42,0 100,51,141,147,0 91,186,111,292,0 127,175,157,208,0 58,171,80,252,0 3,248,57,332,0 141,271,163,320,0 222,102,256,318,0 191,320,230,382,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000181.jpg 22,198,84,468,0 103,51,170,469,0 174,4,238,193,0 192,198,222,482,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000194.jpg 99,2,133,31,0 43,164,75,289,0 83,257,114,275,0 122,207,137,248,0 201,202,218,250,0 214,95,239,145,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000209.jpg 47,280,75,372,0 79,132,125,198,0 74,210,90,259,0 157,185,175,237,0 193,4,223,304,0 160,315,239,499,0 136,505,245,578,0 15,451,116,500,0 82,283,120,363,0 134,269,188,311,0 104,67,189,118,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000213.jpg 109,177,207,322,0 163,355,218,417,0 13,321,40,370,0 18,202,57,287,0 32,125,57,186,0 53,11,79,164,0 139,89,155,168,0 179,3,240,177,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000215.jpg 47,8,122,96,0 68,124,125,276,0 37,237,64,303,0 72,309,98,356,0 175,6,215,137,0 185,157,206,210,0 221,57,239,275,0 151,264,207,328,0 190,339,237,423,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000220.jpg 104,4,125,88,0 166,11,220,152,0 120,95,141,181,0 100,210,125,341,0 127,207,149,255,0 149,183,172,266,0 136,291,181,366,0 185,284,215,378,0 220,277,242,366,0 223,234,256,270,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000222.jpg 47,1,85,216,0 104,117,133,267,0 118,370,170,441,0 217,412,256,489,0 206,208,244,276,0 201,2,234,82,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000260.jpg 5,65,49,475,0 75,20,89,125,0 99,1,125,225,0 166,124,188,226,0 128,242,146,312,0 157,249,179,334,0 72,329,89,404,0 102,329,120,404,0 111,437,136,473,0 157,373,227,474,0 220,319,240,357,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000262.jpg 63,1,87,322,0 98,168,124,237,0 134,181,174,246,0 98,258,147,378,0 65,368,84,402,0 72,422,92,466,0 105,397,128,459,0 95,480,120,535,0 71,563,119,660,0 153,6,170,153,0 187,80,215,280,0 187,288,256,347,0 213,418,232,508,0 226,349,256,408,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000264.jpg 28,396,49,603,0 160,210,198,542,0 205,221,232,577,0 169,11,208,207,0 96,4,119,96,0 73,103,107,208,0 53,221,93,284,0 37,298,67,377,0 101,328,131,396,0 110,447,155,512,0 53,485,92,579,0 115,555,146,603,0 126,19,165,181,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000268.jpg 46,1,86,136,0 107,63,154,163,0 59,263,171,546,0 190,372,218,489,0 185,511,218,627,0 46,561,170,640,0 230,90,256,217,0 104,173,138,240,0 164,172,194,252,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000286.jpg 11,3,27,84,0 22,112,86,251,0 96,86,144,187,0 112,197,142,251,0 154,12,164,45,0 133,55,172,81,0 182,20,197,63,0 206,2,229,256,0 179,91,198,136,0 177,150,197,192,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000295.jpg 144,72,303,137,0 64,127,136,159,0 60,185,212,215,0 185,219,336,239,0 199,246,369,277,0 83,279,204,305,0 92,314,176,334,0 141,357,309,402,0 500,226,575,247,0 528,261,567,286,0 401,290,710,384,0 347,404,747,479,0 268,509,456,577,0 470,577,577,626,0 597,493,705,566,0 803,545,900,617,0 731,562,779,629,0 788,431,900,472,0 798,369,900,406,0 831,327,881,359,0 750,258,900,310,0 539,152,580,184,0 634,233,706,280,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000320.jpg 47,6,135,160,0 30,95,44,226,0 63,190,116,253,0 141,192,164,256,0 137,128,190,184,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000329.jpg 59,96,87,144,0 93,105,110,174,0 17,165,58,256,0 64,175,89,235,0 93,194,120,256,0 138,200,172,256,0 166,152,187,193,0 77,3,103,73,0 109,31,144,110,0 148,27,174,76,0 178,28,205,122,0 209,31,227,77,0 207,94,227,163,0 182,197,214,251,0 237,210,256,244,0 238,11,256,94,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000332.jpg 21,5,54,119,0 13,123,35,256,0 40,188,72,256,0 83,173,105,227,0 95,1,144,168,0 117,172,144,241,0 151,140,182,192,0 197,124,219,226,0 166,1,193,97,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000348.jpg 24,168,59,256,0 42,94,68,164,0 71,2,115,68,0 124,3,175,70,0 92,76,134,158,0 76,173,135,256,0 142,88,213,138,0 153,149,227,216,0 187,8,222,71,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000359.jpg 80,46,97,74,0 3,146,21,169,0 91,79,107,121,0 113,75,135,160,0 123,187,139,209,0 153,185,165,223,0 171,205,179,230,0 123,10,143,46,0 172,1,184,27,0 171,36,190,57,0 202,20,224,54,0 179,65,190,105,0 157,104,191,174,0 198,163,212,200,0 227,9,246,95,0 220,110,239,205,0 199,206,221,251,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000360.jpg 262,58,296,162,0 335,142,377,230,0 417,8,487,140,0 475,213,544,391,0 407,276,435,374,0 444,341,462,461,0 331,379,380,546,0 371,611,439,820,0 516,507,543,645,0 252,403,290,492,0 178,309,231,384,0 569,342,587,486,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000363.jpg 35,2,124,115,0 129,5,166,106,0 180,17,221,57,0 232,42,246,100,0 211,149,236,215,0 149,116,190,130,0 178,150,203,172,0 185,182,201,201,0 133,150,148,203,0 155,205,165,237,0 168,218,180,253,0 56,202,79,251,0 43,216,53,240,0 111,205,126,236,0 93,119,114,165,0 9,154,26,191,0 51,148,85,196,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000370.jpg 19,147,90,244,0 37,76,74,115,0 100,75,126,116,0 73,1,100,28,0 76,36,88,53,0 101,23,121,45,0 139,18,162,72,0 173,18,202,92,0 194,1,231,11,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000380.jpg 61,16,103,210,0 16,102,27,151,0 33,171,52,236,0 37,19,45,73,0 229,154,247,189,0 124,203,141,231,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000398.jpg 56,139,104,166,0 133,95,179,145,0 132,163,151,186,0 197,71,235,92,0 228,22,256,48,0 92,202,165,218,0 235,144,256,207,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000405.jpg 166,1,386,26,0 467,1,558,28,0 386,153,525,206,0 3,31,61,65,0 83,80,247,126,0 7,131,45,152,0 9,184,67,218,0 87,163,191,193,0 122,202,290,229,0 545,62,609,82,0 534,109,617,140,0 360,48,419,89,0 571,218,635,254,0 646,212,699,235,0 685,160,740,184,0 744,233,787,251,0 847,200,891,213,0 885,90,934,117,0 984,27,1067,61,0 849,258,902,285,0 1007,268,1068,295,0 888,305,952,327,0 781,291,853,331,0 624,264,758,327,0 10,247,145,289,0 197,292,266,315,0 311,315,361,361,0 11,345,107,377,0 137,363,264,398,0 53,388,211,442,0 324,416,471,454,0 255,476,714,598,0 667,410,744,452,0 530,351,590,377,0 742,345,889,400,0 863,483,941,509,0 1025,486,1068,521,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000420.jpg 29,1,48,70,0 14,81,33,248,0 79,2,133,158,0 77,163,87,186,0 153,1,176,82,0 187,43,205,108,0 218,12,237,110,0 231,126,236,156,0 168,203,190,256,0 207,193,218,214,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000425.jpg 38,11,71,69,0 80,64,115,145,0 47,140,64,171,0 1,137,27,171,0 32,177,45,252,0 79,151,124,208,0 114,2,149,43,0 132,75,215,200,0 221,94,246,153,0 196,2,205,34,0 219,6,230,53,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000433.jpg 59,18,87,154,0 114,112,134,155,0 153,151,168,185,0 156,109,184,139,0 181,89,190,108,0 153,79,166,93,0 138,35,148,55,0 198,165,240,246,0 232,130,256,174,0 246,181,256,198,0 194,48,211,80,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000434.jpg 3,2,93,251,0 101,80,161,251,0 150,4,178,53,0 179,42,208,155,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000435.jpg 32,144,60,191,0 87,68,129,106,0 174,49,230,102,0 171,120,192,151,0 127,117,150,155,0 121,188,141,242,0 157,192,193,243,0 224,178,237,206,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000440.jpg 91,19,113,71,0 134,19,158,56,0 156,68,171,105,0 85,99,104,135,0 122,145,140,225,0 144,143,169,198,0 52,182,85,243,0 183,22,212,141,0 222,34,252,134,0 205,161,237,240,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000446.jpg 35,79,78,177,0 58,2,99,75,0 184,3,207,88,0 182,117,221,252,0 124,148,173,180,0 167,96,181,123,0 146,80,156,109,0 104,80,126,98,0 93,157,112,192,0 117,123,134,145,0 42,185,57,211,0
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000482.jpg 136,15,211,138,1 28,162,163,323,1 29,14,122,125,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000486.jpg 23,14,203,168,1 7,180,153,371,1 65,383,154,574,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000507.jpg 30,15,221,166,1 71,252,191,424,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000525.jpg 117,7,232,224,1 123,236,222,442,1 19,231,111,435,1 72,132,112,219,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000528.jpg 58,1,189,176,1 44,201,226,321,1 91,352,229,460,1 117,476,234,558,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000534.jpg 87,25,178,173,1 35,178,203,270,1 75,307,207,407,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000536.jpg 76,68,184,194,1 84,199,180,308,1 98,323,216,449,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000541.jpg 18,21,117,149,1 16,289,101,448,1 132,206,198,439,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000547.jpg 85,45,153,142,1 1,144,71,289,1 85,220,187,343,1 4,309,77,485,1 87,379,228,557,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000550.jpg 97,9,211,88,1 80,139,194,247,1 10,266,139,324,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000559.jpg 60,21,139,144,1 149,17,233,160,1 73,168,198,276,1 60,310,179,455,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000584.jpg 24,25,200,116,1 126,136,184,314,1 26,149,118,233,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000596.jpg 25,18,81,148,1 29,189,100,308,1 144,165,235,387,1 43,336,75,433,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000622.jpg 40,26,109,146,1 132,1,195,134,1 165,156,223,208,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000626.jpg 32,24,107,204,1 61,228,145,393,1 111,402,228,483,1 163,236,241,383,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000662.jpg 67,182,203,269,1 40,289,234,384,1 91,7,237,58,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000669.jpg 136,13,233,201,1 1,25,97,189,1 66,206,193,310,1 81,385,144,570,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000680.jpg 23,117,231,177,1 10,198,66,259,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000697.jpg 110,5,222,95,1 107,111,180,226,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000702.jpg 14,1,140,133,1 26,139,180,306,1 63,323,194,437,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000732.jpg 114,59,209,257,1 39,117,111,322,1 50,352,132,526,1 170,416,251,561,1 153,587,256,660,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000767.jpg 97,32,246,256,1 28,278,128,450,1 137,296,216,487,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000792.jpg 45,21,203,207,1 25,244,143,332,1 52,338,116,474,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000796.jpg 5,91,230,244,1 21,250,256,422,1 67,433,256,495,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000820.jpg 19,6,216,118,1 39,127,218,300,1 135,359,204,473,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000842.jpg 126,37,224,142,1 48,133,104,249,1 117,157,239,343,1 26,264,105,501,1 117,354,246,498,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000847.jpg 35,65,137,195,1 6,249,120,386,1 4,394,256,500,1 140,292,195,382,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000864.jpg 32,51,192,173,1 62,196,227,339,1 75,380,233,533,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000868.jpg 13,60,101,161,1 136,64,240,170,1 38,172,116,327,1 184,202,236,315,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000879.jpg 71,2,139,124,1 154,6,205,138,1 145,151,195,304,1 46,138,125,291,1 137,324,167,384,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000886.jpg 183,70,253,211,1 35,7,116,33,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000889.jpg 132,205,223,346,1 140,383,215,443,1 35,220,115,309,1 55,95,100,180,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000929.jpg 28,141,124,310,1 48,320,122,461,1 164,113,227,289,1 139,309,210,498,1 150,3,206,95,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000936.jpg 96,24,190,157,1 104,186,233,375,1 68,403,156,530,1 4,174,61,398,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000941.jpg 133,5,200,150,1 38,17,118,150,1 120,157,181,279,1 39,319,94,454,1 53,233,104,306,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000962.jpg 150,35,217,120,1 79,27,126,103,1 187,136,236,221,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000985.jpg 146,14,214,149,1 22,216,92,365,1 125,312,201,406,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000988.jpg 164,14,256,217,1 99,239,172,366,1 91,381,157,484,1 23,397,85,511,1 86,35,136,126,1 43,141,93,214,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000991.jpg 51,16,128,219,1 39,229,105,346,1 125,344,218,452,1 189,52,249,205,1 36,504,73,663,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/000997.jpg 156,28,214,168,1 58,116,110,254,1 132,195,214,325,1 14,360,107,489,1 29,263,112,351,1 57,509,117,572,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001007.jpg 152,92,213,213,1 131,254,214,430,1 64,50,114,170,1 22,181,98,335,1 1,349,85,430,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001011.jpg 27,85,109,230,1 37,241,116,363,1 54,383,121,483,1 91,491,124,596,1 143,149,208,273,1 137,294,216,356,1 142,386,176,596,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001017.jpg 97,203,200,388,1 131,407,231,506,1 40,397,112,524,1 149,110,207,188,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001018.jpg 47,4,136,174,1 15,261,93,381,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001019.jpg 100,28,174,236,1 51,39,96,201,1 119,258,165,313,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001024.jpg 72,157,176,272,1 68,294,140,400,1 33,424,121,497,1 32,519,81,604,1 161,53,234,134,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001028.jpg 155,6,225,55,1 86,8,116,93,1 136,121,186,171,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001042.jpg 122,208,210,464,1 35,218,110,403,1 22,409,100,471,1 76,35,136,108,1 52,125,115,200,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001062.jpg 53,9,126,132,1 146,10,212,120,1 149,138,210,272,1 153,278,229,410,1 110,293,150,410,1 84,151,132,217,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001064.jpg 30,139,125,330,1 147,83,200,213,1 131,325,172,557,1 160,589,246,699,1 43,347,114,455,1 27,571,128,755,1 46,478,123,562,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001074.jpg 79,1,127,112,1 149,3,179,65,1 153,245,232,342,1 63,293,127,343,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001075.jpg 159,46,225,167,1 151,184,217,343,1 138,356,230,471,1 70,336,124,615,1 131,489,172,617,1 89,182,138,327,1 106,39,146,178,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001080.jpg 99,47,199,205,1 31,262,183,364,1 89,368,200,478,1 27,55,85,159,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001084.jpg 151,149,229,259,1 175,351,241,466,1 55,204,116,329,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001106.jpg 39,108,125,180,1 41,243,99,622,1 111,264,170,635,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001112.jpg 42,65,99,172,1 49,188,115,259,1 130,387,181,514,1 91,304,110,337,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001118.jpg 75,148,147,316,1 129,359,187,522,1 161,169,190,256,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001126.jpg 42,31,123,134,1 11,146,103,236,1 15,259,164,309,1 79,315,131,380,1 42,315,72,350,1 161,14,235,80,1 144,94,216,199,1 110,196,139,255,1 114,145,137,192,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001149.jpg 150,118,237,256,1 21,123,117,256,1 61,60,126,116,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001158.jpg 48,90,87,148,1 32,159,76,230,1 165,148,183,197,1 68,267,107,317,1 157,292,180,329,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001164.jpg 63,89,129,216,1 153,175,235,262,1 34,260,92,310,1 132,269,165,328,1 193,296,238,340,1 232,273,250,287,1 45,350,116,398,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001178.jpg 13,32,47,70,1 57,60,84,96,1 93,86,117,124,1 127,119,155,158,1 164,159,193,207,1 198,201,219,229,1 231,224,251,240,1 25,94,55,123,1 64,115,87,139,1 95,134,117,156,1 131,167,157,189,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001187.jpg 96,19,217,98,1 88,116,192,194,1 42,205,123,311,1 140,213,157,293,1 65,330,140,446,1 30,457,99,525,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001190.jpg 56,130,121,283,1 134,148,194,283,1 30,300,108,628,1 137,313,237,501,1 128,515,205,630,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001199.jpg 46,88,148,183,1 70,193,176,247,1 90,260,213,331,1 109,356,222,453,1 127,464,226,506,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001205.jpg 99,6,202,104,1 87,115,181,244,1 122,250,206,412,1 43,300,108,491,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001210.jpg 108,469,177,551,1 31,262,79,367,1 111,578,155,634,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001211.jpg 16,36,71,244,1 76,166,112,285,1 115,247,165,373,1 64,295,109,402,1 132,410,196,599,1 87,420,121,559,1 206,493,235,599,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001217.jpg 131,61,227,181,1 130,230,207,413,1 14,93,99,356,1 29,413,101,680,1 110,434,198,539,1 114,570,180,666,1 85,688,151,748,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001227.jpg 137,93,225,279,1 166,291,229,460,1 39,147,104,283,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001235.jpg 25,5,149,176,1 190,20,240,136,1 194,158,251,408,1 39,215,146,346,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001250.jpg 112,28,171,81,1 69,112,135,194,1 61,217,203,337,1 62,354,120,520,1 136,359,226,522,1 141,135,167,212,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001253.jpg 148,16,254,93,1 139,109,226,198,1 122,213,199,267,1 66,271,152,368,1 21,373,140,459,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001278.jpg 33,15,241,305,1 10,323,246,673,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001288.jpg 12,333,109,456,1 124,360,222,457,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001291.jpg 141,90,242,389,1 9,118,107,383,1 54,54,100,112,1
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001310.jpg
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001330.jpg 23,60,101,134,2 68,150,106,205,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001337.jpg 136,68,216,121,2 34,65,95,124,2 163,6,232,51,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001351.jpg 156,59,219,127,2 154,151,180,210,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001356.jpg 136,16,181,75,2 76,10,122,49,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001361.jpg 132,60,177,106,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001389.jpg 101,104,128,143,2 73,204,113,252,2 72,153,101,187,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001392.jpg 87,182,94,204,2 47,164,83,184,2 165,127,186,163,2 152,59,191,93,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001396.jpg 154,102,185,136,2 22,194,97,213,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001402.jpg 194,123,225,215,2 35,108,67,212,2 105,157,124,217,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001406.jpg 38,188,94,228,2 140,175,195,201,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001414.jpg 76,211,113,242,2 165,235,177,242,2 99,245,108,255,2 83,157,90,166,2 177,131,187,142,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001424.jpg 48,182,109,213,2 122,198,182,231,2 25,229,64,253,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001426.jpg 159,150,226,208,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001451.jpg 127,39,163,69,2 167,61,193,95,2 43,20,97,59,2 63,64,99,90,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001454.jpg 148,3,206,21,2 138,35,180,50,2 130,66,155,89,2 107,1,134,22,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001456.jpg 106,101,135,126,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001471.jpg 735,778,892,879,2 788,551,945,747,2 887,373,1041,526,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001474.jpg 135,176,164,206,2 73,133,112,171,2 123,244,178,255,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001478.jpg 167,91,181,122,2 164,3,193,36,2 94,28,116,62,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001486.jpg 15,97,36,128,2 45,112,84,140,2 153,170,177,220,2 146,84,175,137,2 207,204,232,212,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001494.jpg 57,16,85,71,2 66,78,98,100,2 108,38,125,76,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001497.jpg 60,141,114,253,2 121,174,175,254,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001503.jpg 18,148,53,219,2 79,172,100,227,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001508.jpg 50,3,113,120,2 27,148,49,185,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001511.jpg 84,56,123,81,2 128,30,155,59,2 175,50,185,64,2 132,148,162,178,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001512.jpg 41,44,103,116,2 121,76,176,156,2 188,63,227,114,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001526.jpg 164,222,198,254,2 110,174,131,204,2 203,188,233,222,2 137,150,164,175,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001533.jpg 59,220,96,255,2 82,143,114,195,2 151,163,175,221,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001565.jpg 143,166,285,300,2 260,311,319,473,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001574.jpg 331,145,483,219,2 492,140,607,189,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001602.jpg 44,195,200,442,2 211,320,443,457,2 280,82,504,175,2 545,161,653,453,2 743,391,872,588,2 583,539,711,660,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001603.jpg 173,208,207,251,2 157,133,201,182,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001626.jpg 16,51,68,112,2 67,122,122,185,2 128,35,185,96,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001628.jpg 115,96,196,126,2 29,187,76,238,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001644.jpg 61,8,122,69,2 43,144,110,201,2 75,76,133,123,2 156,103,186,126,2 164,68,190,91,2 147,16,186,57,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001649.jpg 116,37,177,105,2 63,92,112,177,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001655.jpg 106,72,143,152,2 157,127,180,222,2 83,219,142,255,2 59,121,95,163,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001657.jpg 64,18,88,46,2 117,13,134,40,2 140,68,169,90,2 107,100,142,122,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001667.jpg 68,71,108,149,2 162,66,216,98,2 127,178,160,210,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001677.jpg 120,114,152,158,2 164,140,201,177,2 135,183,165,206,2 63,70,74,84,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001678.jpg 185,140,213,220,2 184,2,211,34,2 84,49,116,83,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001685.jpg 142,23,205,67,2 178,102,197,112,2 47,177,59,205,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001695.jpg 67,138,104,176,2 39,103,82,127,2 136,64,168,93,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001701.jpg 62,77,110,106,2 30,118,74,153,2 88,177,126,254,2 199,5,240,52,2 157,29,191,68,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001710.jpg 38,65,93,129,2 104,102,158,169,2 125,52,185,96,2 52,176,110,206,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001721.jpg 141,157,192,241,2 30,136,66,227,2 141,73,234,143,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001761.jpg 140,80,177,112,2 54,69,93,108,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001763.jpg 49,59,99,136,2 141,56,185,112,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001778.jpg 131,97,140,118,2 194,91,201,104,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001785.jpg 35,211,115,247,2 147,185,209,256,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001786.jpg 69,189,111,250,2 110,120,142,161,2 138,172,177,212,2 136,55,166,107,2 172,72,199,104,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001802.jpg 129,177,186,232,2 112,90,168,105,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001803.jpg 76,190,120,254,2 130,196,152,255,2 175,213,198,253,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001822.jpg 91,120,119,192,2 159,147,176,181,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001828.jpg 505,1175,985,1455,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001830.jpg 140,109,170,157,2 181,129,202,173,2 142,11,185,43,2 87,148,116,193,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001831.jpg 41,5,124,105,2 149,5,202,108,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001833.jpg 95,85,169,255,2 178,126,245,245,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001851.jpg 143,8,186,58,2 44,18,71,37,2 138,120,156,134,2 90,136,117,173,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001917.jpg 48,20,115,74,2 147,37,232,121,2 70,161,130,220,2 165,176,212,236,2 67,94,116,148,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001928.jpg 66,115,147,173,2 153,114,217,173,2 133,52,198,111,2 62,25,123,81,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001950.jpg 138,94,197,144,2 75,68,124,156,2 166,10,229,74,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001951.jpg 94,201,173,243,2 24,23,99,114,2 135,131,178,165,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001957.jpg 124,56,190,151,2 137,164,178,246,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001961.jpg 177,207,326,654,2 343,462,422,726,2 134,726,317,1057,2 339,794,450,1028,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001965.jpg 102,148,159,216,2 40,104,99,194,2 120,64,172,138,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001971.jpg 42,89,135,149,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001983.jpg 118,92,175,128,2 146,140,208,187,2 179,197,231,248,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/001985.jpg 77,175,169,236,2 88,66,114,167,2 130,83,190,158,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002002.jpg
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002038.jpg 11,177,102,256,2 26,136,111,167,2 49,116,101,133,2 118,179,191,256,2 132,68,201,173,2 219,130,244,148,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002069.jpg 28,98,91,168,2 150,79,164,140,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002079.jpg 24,54,101,123,2 106,87,166,147,2 149,1,225,62,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002094.jpg 33,18,117,132,2 134,39,225,140,2 32,144,124,200,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002106.jpg 26,36,113,115,2 116,32,162,88,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002109.jpg 54,1,110,76,2 126,1,156,49,2 31,105,97,161,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002113.jpg 60,139,133,201,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002127.jpg 47,25,112,79,2 8,94,85,161,2 141,55,190,161,2 143,168,171,192,2 198,8,238,93,2 147,11,177,44,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002128.jpg 48,153,100,220,2 115,204,223,256,2 144,131,187,177,2 81,50,120,94,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002146.jpg 107,190,203,363,2 98,23,213,183,2 224,103,255,212,2 1,88,82,327,2 1,3,37,79,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002171.jpg 115,1,205,50,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002175.jpg 44,1,116,82,2 123,2,230,89,2 51,89,117,172,2 124,98,194,180,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002202.jpg 38,106,125,195,2 80,18,122,102,2 22,18,58,59,2 47,74,75,102,2 132,25,183,200,2 192,77,215,207,2 218,93,233,150,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002220.jpg 134,54,228,151,2 160,155,243,255,2 18,89,112,179,2 48,196,140,251,2 59,40,110,80,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002222.jpg 39,2,133,46,2 38,63,123,182,2 137,6,226,153,2 63,198,172,231,2 135,161,202,187,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002246.jpg 62,1,136,70,2 147,1,209,70,2 166,77,207,97,2 59,96,115,146,2 85,157,125,207,2 145,110,200,157,2 139,167,193,221,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002259.jpg 2,11,95,94,2 53,99,131,128,2 127,4,246,81,2 155,94,212,150,2 176,162,222,213,2 118,197,165,239,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002264.jpg 36,1,126,50,2 150,1,242,62,2 130,72,196,142,2 56,60,120,132,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002275.jpg 33,1,90,106,2 125,2,212,66,2 105,74,183,132,2 45,120,94,194,2 105,139,154,166,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002277.jpg 156,130,200,193,2 155,203,198,254,2 176,41,239,120,2 1,118,77,177,2 26,187,91,256,2 16,50,36,102,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002299.jpg 13,48,96,143,2 147,2,252,45,2 33,150,135,204,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002300.jpg 138,49,223,148,2 141,156,207,221,2 29,22,111,101,2 50,111,111,216,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002307.jpg 25,41,109,121,2 60,129,114,178,2 162,74,225,131,2 182,135,220,175,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002308.jpg 54,1,102,79,2 113,8,200,74,2 89,83,170,129,2 43,138,132,201,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002316.jpg 49,62,115,143,2 80,150,123,215,2 150,46,203,118,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002335.jpg 21,5,118,93,2 19,97,95,168,2 105,97,201,143,2 103,150,155,183,2 136,5,217,87,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002341.jpg 14,3,104,49,2 33,56,90,141,2 119,1,199,100,2 211,4,246,45,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002344.jpg 18,6,207,106,2 44,118,153,185,2 16,194,92,249,2 112,198,216,256,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002349.jpg 18,111,97,202,2 208,71,253,120,2 173,146,247,219,2 96,64,124,94,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002356.jpg 186,105,238,142,2 14,49,67,102,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002359.jpg 136,23,179,92,2 83,24,119,77,2 156,96,202,172,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002360.jpg 55,41,106,123,2 182,27,215,86,2 116,20,155,75,2 128,165,155,195,2 66,133,90,187,2 150,89,181,140,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002404.jpg 19,196,104,255,2 54,150,92,192,2 75,123,98,140,2 119,168,176,256,2 181,216,201,256,2 127,48,226,132,2 182,8,224,43,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002418.jpg 134,14,204,51,2 130,60,196,162,2 159,171,227,231,2 87,166,136,196,2 124,207,154,232,2 19,89,104,122,2 91,131,118,162,2 77,1,106,48,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002430.jpg 56,1,129,76,2 70,82,121,130,2 151,9,223,77,2 174,89,217,160,2 133,110,169,159,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002437.jpg 27,3,137,59,2 155,1,248,67,2 142,77,228,127,2 31,71,127,122,2 57,134,186,190,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002440.jpg 49,19,132,115,2 160,12,217,51,2 156,61,232,121,2 145,131,217,179,2 56,129,118,184,2 133,189,188,241,2 61,197,118,251,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002458.jpg 41,33,105,79,2 121,23,185,77,2 169,109,206,164,2 146,169,206,256,2 88,192,137,255,2 90,102,121,173,2
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002476.jpg 111,12,141,85,3 127,103,152,177,3 259,2,283,48,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002488.jpg 86,101,123,215,3 164,125,195,189,3 186,37,230,113,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002494.jpg 71,15,119,183,3 147,32,175,179,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002507.jpg 137,16,180,172,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002516.jpg 111,109,146,230,3 44,216,81,256,3 143,3,187,84,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002517.jpg 169,46,202,229,3 1,92,26,134,3 70,202,102,256,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002525.jpg 153,104,196,197,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002527.jpg 135,44,193,130,3 101,147,175,215,3 20,200,94,244,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002529.jpg 91,32,147,183,3 221,121,256,183,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002531.jpg 19,91,58,196,3 148,141,175,245,3 251,176,285,257,3 266,329,307,441,3 373,210,402,304,3 321,441,360,504,3 424,443,437,485,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002548.jpg 103,92,140,199,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002553.jpg 36,24,80,242,3 119,155,165,328,3 184,163,213,311,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002569.jpg 66,72,122,214,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002574.jpg 128,79,185,213,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002586.jpg 391,163,561,253,3 513,109,671,153,3 207,220,385,306,3 221,160,303,209,3 322,87,451,133,3 143,348,233,404,3 10,304,95,346,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002591.jpg 113,110,255,170,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002598.jpg 104,23,144,156,3 68,174,117,247,3 162,1,202,46,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002631.jpg 88,40,128,224,3 14,4,40,61,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002656.jpg 52,54,100,148,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002666.jpg 81,51,135,170,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002667.jpg 112,55,161,172,3 172,112,201,185,3 187,33,209,92,3 25,129,77,226,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002672.jpg 124,34,161,195,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002678.jpg 115,142,158,242,3 52,122,101,227,3 63,41,108,112,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002691.jpg 103,71,144,192,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002734.jpg 83,35,131,186,3 160,21,211,214,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002746.jpg 133,71,174,209,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002763.jpg 199,42,226,226,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002768.jpg 107,41,145,200,3 149,118,188,253,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002786.jpg 9,379,146,562,3 85,206,149,360,3 154,390,228,553,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002801.jpg 8,9,46,130,3 122,1,146,57,3 146,36,182,160,3 65,203,100,256,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002821.jpg 70,1,116,95,3 125,52,159,172,3 109,177,144,256,3 231,144,256,213,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002826.jpg 91,52,132,229,3 8,1,44,47,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002833.jpg 55,31,108,201,3 107,12,143,107,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002840.jpg 78,49,117,167,3 135,2,161,160,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002842.jpg 2,221,48,589,3 60,182,142,393,3 118,409,180,618,3 178,223,251,371,3 255,288,341,462,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002852.jpg 77,4,253,44,3 105,54,254,97,3 146,108,254,147,3 156,160,253,196,3 89,135,131,256,3 165,201,256,233,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002883.jpg 107,53,156,247,3 158,12,191,87,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002888.jpg 59,126,101,249,3 231,26,256,115,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002919.jpg 147,167,209,193,3 129,129,181,160,3 117,225,201,248,3 302,196,389,223,3 240,152,299,177,3 1,70,52,98,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002920.jpg 105,69,145,220,3 200,5,236,86,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002924.jpg 156,104,191,200,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002943.jpg 23,67,76,256,3 96,82,126,152,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002953.jpg 171,117,712,241,3 237,285,839,385,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002963.jpg 139,73,197,224,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002970.jpg 116,15,155,107,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/002989.jpg 75,91,111,186,3 169,41,204,120,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003062.jpg 111,108,146,180,3 147,68,175,129,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003065.jpg 84,51,123,205,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003066.jpg 116,80,143,202,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003074.jpg 129,94,163,171,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003087.jpg 129,120,157,206,3 156,81,188,171,3 174,29,191,80,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003092.jpg 139,84,183,202,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003121.jpg 116,59,153,204,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003137.jpg 124,58,165,228,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003139.jpg 83,9,152,235,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003145.jpg 158,101,221,233,3 53,60,99,179,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003148.jpg 64,7,97,94,3 57,100,91,160,3 138,5,173,74,3 143,99,175,245,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003156.jpg 149,54,174,103,3 129,123,162,185,3 150,192,179,229,3 78,108,116,182,3 42,183,99,242,3 82,29,123,80,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003194.jpg 167,44,193,95,3 145,100,185,135,3 120,139,162,183,3 104,185,156,213,3 69,225,130,255,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003196.jpg 68,86,115,206,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003203.jpg 114,70,164,200,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003209.jpg 135,64,172,239,3 40,146,67,226,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003219.jpg 127,6,382,118,3 166,147,269,588,3 285,137,399,537,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003268.jpg 81,76,120,188,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003275.jpg 81,47,129,172,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003282.jpg 109,63,145,226,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003302.jpg 88,85,126,149,3 107,34,129,82,3 58,152,110,185,3 175,4,191,42,3 133,2,163,44,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003320.jpg 51,39,123,236,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003329.jpg 30,3,99,95,3 23,104,171,254,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003337.jpg 129,12,166,77,3 105,78,142,138,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003338.jpg 70,137,135,206,3 45,209,77,253,3 111,80,135,138,3 96,3,129,71,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003352.jpg 193,300,235,439,3 275,471,306,612,3 223,697,276,800,3 272,7,324,240,3 313,319,423,404,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003385.jpg 275,1,458,1032,3 144,430,262,916,3 163,65,266,408,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003411.jpg 136,14,179,211,3 208,41,235,256,3 61,200,85,240,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003427.jpg 41,83,69,200,3 114,70,164,251,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003460.jpg 53,207,79,256,3 133,79,155,221,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003465.jpg 62,53,99,203,3 232,163,256,256,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003468.jpg 74,2,109,191,3 147,39,173,204,3 229,85,253,190,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003473.jpg 38,5,118,220,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003493.jpg
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003503.jpg 5,131,198,173,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003524.jpg 36,5,81,220,3 88,30,140,256,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003531.jpg 100,24,151,242,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003533.jpg 66,3,135,50,3 96,59,161,103,3 97,110,156,191,3 51,182,103,256,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003540.jpg 164,59,218,242,3 3,163,59,256,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003599.jpg 114,31,141,157,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003612.jpg 18,75,68,138,3 2,139,35,181,3 48,8,83,74,3 154,104,194,198,3
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003618.jpg 136,107,187,320,4 39,18,61,42,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003641.jpg 110,1,167,139,4 101,142,158,312,4 166,353,214,537,4 77,414,127,537,4 116,325,152,410,4 165,147,191,236,4 60,290,88,360,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003644.jpg 156,72,185,318,4 69,117,98,186,4 102,30,126,84,4 116,332,148,381,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003653.jpg 104,35,126,107,4 69,244,133,351,4 89,353,139,478,4 22,1,61,31,4 141,4,157,81,4 65,124,84,204,4 120,133,138,188,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003655.jpg 62,59,118,184,4 96,185,130,346,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003657.jpg 46,126,81,305,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003674.jpg 158,97,183,179,4 195,24,218,78,4 153,182,186,345,4 241,2,254,31,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003690.jpg 83,34,134,156,4 118,158,186,304,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003691.jpg 72,1,102,249,4 78,253,116,543,4 1,464,27,570,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003694.jpg 138,73,180,239,4 123,241,152,380,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003696.jpg 114,99,140,280,4 141,261,163,316,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003706.jpg 130,54,179,285,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003715.jpg 135,6,164,128,4 128,150,175,356,4 133,360,199,591,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003735.jpg 118,111,156,280,4 77,1,114,71,4 80,165,109,229,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003745.jpg 111,55,158,138,4 151,139,185,252,4 100,316,124,409,4 28,359,73,405,4 113,230,149,314,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003765.jpg 39,272,81,501,4 37,503,70,601,4 151,589,191,802,4 8,607,46,731,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003790.jpg 139,5,177,93,4 146,166,166,237,4 93,337,115,417,4 213,128,224,213,4 196,2,217,47,4 190,362,209,417,4 92,166,113,205,4 104,4,127,80,4 98,108,117,161,4 74,209,100,263,4 116,251,140,366,4 176,93,193,153,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003802.jpg 163,47,183,248,4 131,146,150,230,4 98,129,106,190,4 52,219,62,259,4 59,261,73,302,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003813.jpg 90,284,149,425,4 136,94,164,155,4 45,446,94,549,4 125,210,164,273,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003845.jpg 166,25,208,166,4 148,167,185,411,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003857.jpg 126,84,159,147,4 106,156,141,364,4 67,264,83,298,4 61,18,76,94,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003863.jpg 119,62,164,408,4 171,182,214,307,4 132,4,155,38,4 104,351,113,430,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003865.jpg 108,42,143,158,4 117,162,143,199,4 108,204,140,315,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003870.jpg 91,96,106,160,4 158,13,172,50,4 135,96,152,152,4 153,298,172,376,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003884.jpg 104,21,131,136,4 107,137,130,173,4 42,294,59,333,4 111,177,136,341,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003885.jpg 118,241,156,449,4 143,75,175,234,4 223,282,242,346,4 165,297,188,355,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003898.jpg 50,90,104,422,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003907.jpg 122,245,134,300,4 170,200,186,309,4 78,382,90,438,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003918.jpg 118,101,147,187,4 134,317,176,467,4 51,222,123,289,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003930.jpg 1,114,103,225,4 33,37,165,110,4 38,480,61,507,4 54,511,88,552,4 2,421,25,464,4 4,230,32,350,4 39,231,76,270,4 112,117,141,184,4 57,1,203,32,4 83,565,107,594,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003935.jpg 175,100,199,210,4 152,216,191,313,4 154,356,183,406,4 77,199,98,271,4 98,22,129,67,4 146,94,160,148,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003938.jpg 145,46,173,177,4 132,182,157,351,4 61,202,86,290,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003942.jpg 58,144,111,251,4 45,253,82,408,4 205,6,219,33,4 86,93,117,141,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003951.jpg 130,127,161,297,4 56,291,81,365,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003952.jpg 100,152,119,345,4 170,223,196,470,4 200,209,210,273,4 164,2,188,93,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003962.jpg 153,9,199,298,4 208,184,245,255,4 211,267,235,337,4 229,374,251,407,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003993.jpg 74,45,121,321,4 174,99,203,218,4 189,219,233,384,4 243,324,256,371,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/003998.jpg 148,130,211,528,4 139,541,191,787,4 224,2,255,142,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004002.jpg 117,34,176,365,4 40,271,72,384,4 149,1,175,31,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004010.jpg 158,133,186,234,4 74,104,85,131,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004011.jpg 97,117,148,272,4 164,176,198,262,4 41,240,55,264,4 201,87,232,149,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004037.jpg 161,42,202,419,4 1,156,24,245,4 63,353,102,465,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004045.jpg 49,5,134,373,4 7,57,20,137,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004049.jpg 103,86,148,348,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004066.jpg 51,81,123,515,4 167,354,200,406,4 62,517,95,629,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004076.jpg 103,136,133,335,4 22,301,43,344,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004077.jpg 125,63,170,341,4 34,4,52,57,4 81,200,98,247,4 89,2,106,43,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004085.jpg 99,83,141,315,4 144,130,158,196,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004099.jpg 101,145,145,344,4 17,258,69,406,4 36,436,93,676,4 113,18,142,96,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004101.jpg 132,68,167,330,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004117.jpg 119,25,139,109,4 122,115,154,229,4 154,130,181,198,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004121.jpg 111,229,136,273,4 127,176,148,226,4 144,133,162,174,4 155,83,170,133,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004146.jpg 1,194,42,384,4 137,85,180,342,4 193,247,237,318,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004178.jpg 49,53,84,80,4 58,83,98,104,4 65,106,86,121,4 70,124,92,146,4 76,149,96,162,4 87,165,100,179,4 99,183,121,199,4 111,201,134,225,4 84,28,129,89,4 114,91,143,112,4 124,115,153,148,4 146,150,166,186,4 130,54,157,90,4 145,95,180,141,4 172,146,198,187,4 192,190,228,242,4 97,1,125,26,4 133,250,158,302,4 231,199,252,256,4 221,253,247,291,4 186,106,202,161,4 204,131,234,180,4 136,4,144,19,4 144,22,154,40,4 154,41,163,54,4 167,75,181,95,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004184.jpg 98,93,106,142,4 96,143,109,190,4 93,192,110,245,4 85,246,107,269,4 82,273,108,299,4 75,301,105,338,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004187.jpg 118,61,149,248,4 88,319,113,384,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004198.jpg 36,63,65,101,4 67,103,82,138,4 83,129,109,165,4 107,161,133,197,4 134,169,144,211,4 144,198,161,234,4 159,213,179,237,4 180,230,195,247,4 197,249,208,269,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004206.jpg 52,2,73,203,4 147,84,163,181,4 131,183,157,255,4 120,257,142,406,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004211.jpg 124,66,187,570,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004212.jpg 199,3,225,40,4 176,128,205,207,4 212,222,236,352,4 110,334,128,379,4 89,379,108,403,4 79,403,93,456,4 95,429,105,493,4 213,426,227,551,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004229.jpg 115,10,132,115,4 105,118,127,250,4 100,251,122,324,4 90,326,115,418,4 34,324,47,345,4 34,348,40,389,4 23,390,36,451,4 168,76,193,190,4 157,193,185,301,4 148,303,170,402,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004266.jpg 97,141,137,334,4 215,1,249,142,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004267.jpg 167,57,194,126,4 147,128,176,175,4 116,178,147,284,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004274.jpg 54,2,95,82,4 73,86,105,218,4 85,221,125,414,4 145,35,173,412,4 32,88,52,225,4 53,299,76,346,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004285.jpg 157,129,182,163,4 135,164,170,236,4 124,237,154,318,4 111,320,141,411,4 176,403,202,548,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004301.jpg 77,1,105,27,4 105,26,127,65,4 128,65,162,104,4 159,104,180,126,4 104,81,124,107,4 127,108,156,139,4 157,142,180,174,4 181,176,218,221,4 125,5,159,48,4
+I:\玉米病虫害资料\yolov4_tiny_pytorch_yuxunlian\VOCdevkit/VOC2007/JPEGImages/004306.jpg 46,32,69,98,4 44,127,66,233,4 176,174,201,256,4 213,27,226,192,4 271,4,312,251,4
