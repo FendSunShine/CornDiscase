@@ -3,19 +3,15 @@
 #-------------------------------------#
 import datetime
 import os
-import sys
 import numpy as np
 import torch
 import torch.backends.cudnn as cudnn
 import torch.distributed as dist
-import torch.nn as nn
 import torch.optim as optim
 from torch import nn
 from torch.utils.data import DataLoader
-
 from nets.yolo import YoloBody
-from nets.yolo_training import (YOLOLoss, get_lr_scheduler, set_optimizer_lr,
-                                weights_init)
+from nets.yolo_training import (YOLOLoss, get_lr_scheduler, set_optimizer_lr, weights_init)
 from utils.callbacks import EvalCallback, LossHistory
 from utils.dataloader import YoloDataset, yolo_dataset_collate
 from utils.utils import get_anchors, get_classes, show_config
@@ -42,7 +38,7 @@ if __name__ == "__main__":
     #   Cuda    是否使用Cuda
     #           没有GPU可以设置成False
     #---------------------------------#
-    Cuda = False
+    Cuda = True
     #---------------------------------------------------------------------#
     #   distributed     用于指定是否使用单机多卡分布式运行
     #                   终端指令仅支持Ubuntu。CUDA_VISIBLE_DEVICES用于在Ubuntu下指定显卡。
@@ -189,7 +185,7 @@ if __name__ == "__main__":
     #   Freeze_batch_size   模型冻结训练的batch_size
     #                       (当Freeze_Train=False时失效)
     #------------------------------------------------------------------#
-    Init_Epoch          = 50
+    Init_Epoch          = 59
     Freeze_Epoch        = 50
     Freeze_batch_size   = 16
     #------------------------------------------------------------------#
@@ -257,7 +253,7 @@ if __name__ == "__main__":
     #                   开启后会加快数据读取速度，但是会占用更多内存
     #                   内存较小的电脑可以设置为2或者0  
     #------------------------------------------------------------------#
-    num_workers         = 8
+    num_workers         = 12
 
     #------------------------------------------------------#
     #   train_annotation_path   训练图片路径和标签

@@ -1,3 +1,5 @@
+import os
+
 import numpy as np
 from PIL import Image
 
@@ -94,3 +96,6 @@ def writeInXml(pic_number,predicted_classes,tops, lefts, bottoms, rights, xml_fi
             '<annotation>\n\t<folder></folder>\n\t<filename>'+
             pic_number +'.jpg</filename>\n\t<path></path>\n\t<source>\n\t\t<database>Unknown</database>\n\t</source>\n\t<size>\n\t\t'
                         '<width>500</width>\n\t\t<height>800</height>\n\t\t<depth>3</depth>\n\t</size>\n\t<segmented>0</segmented>\n\t'+ objs +'</annotation>')
+
+
+

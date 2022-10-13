@@ -63,8 +63,8 @@ if __name__ == "__main__":
     #-------------------------------------------------------------------------#
     # dir_origin_path = "VOCdevkit/VOC2007/JPEGImages/"
     # dir_save_path   = "img_out/"
-    dir_origin_path = "img/img_cs/"
-    dir_save_path   = "img_out_cs/"
+    dir_origin_path = "VOCdevkit/VOC2007/JPEGImages"
+    dir_save_path   = "img_out_cs"
     #-------------------------------------------------------------------------#
     #   heatmap_save_path   热力图的保存路径，默认保存在model_data下
     #   

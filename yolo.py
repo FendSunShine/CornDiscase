@@ -48,7 +48,7 @@ class YOLO(object):
         #---------------------------------------------------------------------#
         #   只有得分大于置信度的预测框会被保留下来
         #---------------------------------------------------------------------#
-        "confidence"        : 0.08,
+        "confidence"        : 0.45,
         #---------------------------------------------------------------------#
         #   非极大抑制所用到的nms_iou大小
         #---------------------------------------------------------------------#
@@ -224,7 +224,7 @@ class YOLO(object):
             lefts.append(left)
             bottoms.append(bottom)
             rights.append(right)
-            print(label, top, left, bottom, right)
+            # print(label, top, left, bottom, right)
             
             if top - label_size[1] >= 0:
                 text_origin = np.array([left, top - label_size[1]])

@@ -42,7 +42,7 @@ VOCdevkit_path  = 'VOCdevkit'
 
 VOCdevkit_sets  = [('2007', 'train'), ('2007', 'val')]
 classes, _      = get_classes(classes_path)
-
+print('class:', classes)
 #-------------------------------------------------------#
 #   统计目标数量
 #-------------------------------------------------------#
@@ -86,8 +86,8 @@ if __name__ == "__main__":
             if xml.endswith(".xml"):
                 total_xml.append(xml)
 
-        num     = len(total_xml)  
-        list    = range(num)  
+        num     = len(total_xml)
+        list    = range(num)
         tv      = int(num*trainval_percent)  
         tr      = int(tv*train_percent)  
         trainval= random.sample(list,tv)  
